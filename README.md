@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello, I'm Shana! 👋
 
-<!--
-**shanasherfudheen/shanasherfudheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Developer with expertise in HTML, CSS, JavaScript, and React. I love web designing and development, and I have around 3 years of experience in the IT industry.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Frameworks: HTML, CSS, JavaScript, React
+
+Design: Web designing, Responsive Design, UX/UI principles
+
+Tools: Git, VSCode, Chrome DevTools
+
+🌱 What I’m currently learning
+
+I am always eager to learn new technologies and stay updated with the latest trends in web development. 
+
+📫 How to reach me
+
+Feel free to reach out to me for any collaboration or just to say hi! You can find me on:
+
+LinkedIn - https://www.linkedin.com/in/shanasherfudheen/
+Email - mailto:shanasherfudheen@gmail.com
+
+Thank you for visiting my GitHub profile!
+
